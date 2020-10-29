@@ -11,6 +11,7 @@
 
 ### Теория
 
+* [developer.mozilla.org/ru/](https://developer.mozilla.org/ru/) — веб-документация
 * [ru.hexlet.io](https://ru.hexlet.io)
 * [learn.javascript.ru](https://learn.javascript.ru/)
 * [ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
