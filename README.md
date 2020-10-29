@@ -3,7 +3,7 @@
 ## ПО
 
 * [tomighty.github.io](https://tomighty.github.io/) — приложение для [концентрации внимания](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BF%D0%BE%D0%BC%D0%B8%D0%B4%D0%BE%D1%80%D0%B0)
-* [zoom.us](zoom.us) — удобная программа для созвонов с шарингом экрана
+* [zoom.us](https://zoom.us/) — удобная программа для созвонов с шарингом экрана
 * [slack.com/intl/en-ru](https://slack.com/intl/en-ru/) — удобный месенджер для переписки
 * [code.visualstudio.com](https://code.visualstudio.com/) — бесплатная среда разработки
 
