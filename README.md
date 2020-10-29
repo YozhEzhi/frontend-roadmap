@@ -17,16 +17,16 @@
 
 ### Практика
 
-* (ru.hexlet.io/challenges)[https://ru.hexlet.io/challenges/]
-* (codewars.com)[https://www.codewars.com/]
+* [ru.hexlet.io/challenges](https://ru.hexlet.io/challenges/)
+* [codewars.com](https://www.codewars.com/)
 
 ### Песочницы
 
-* (codepen.io)[https://codepen.io/] — примеры вёрстки и песочница для упражнений
-* (codesandbox.io)[https://codesandbox.io/] — крутая песочница для React, например
-* (jsbin.com)[https://jsbin.com/?html,js,output] — норм песочница для мелких задачек
+* [codepen.io](https://codepen.io/) — примеры вёрстки и песочница для упражнений
+* [codesandbox.io](https://codesandbox.io/) — крутая песочница для React, например
+* [jsbin.com](https://jsbin.com/?html,js,output) — норм песочница для мелких задачек
 
 ### Хранилище кода
 
-* (github.com)[https://github.com/] — самое популяное хранилище Open Source
-* (gist.github.com)[https://gist.github.com/] — простое и удобное хранилище сниппетов\заметок и т.д.
+* [github.com](https://github.com/) — самое популяное хранилище Open Source
+* [gist.github.com](https://gist.github.com/) — простое и удобное хранилище сниппетов\заметок и т.д.
